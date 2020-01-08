@@ -12,7 +12,7 @@ $ npm install vue-music-play
 ```
  ```
 import MusicPlay from 'vue-music-play'
-import 'vue-music-play/vue-music-play.css'
+import 'vue-music-play/dist/vue-music-play.css'
 components: {
     MusicPlay
   }
