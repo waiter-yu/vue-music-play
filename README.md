@@ -1,6 +1,6 @@
 ## 截图
 
-![1](https://gitee.com/mycssweb/vue-simple-verify/raw/master/docs/1.png)
+![1](./docs/1.png)
 
 ## 安装
 ```
