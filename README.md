@@ -1,6 +1,6 @@
 ## 截图
 
-![1](./docs/1.png)
+![1](https://raw.githubusercontent.com/waiter-yu/vue-music-play/master/docs/1.png)
 
 ## 安装
 ```
