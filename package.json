@@ -1,6 +1,6 @@
 {
   "name": "vue-music-play",
-  "version": "1.0.7",
+  "version": "1.0.5",
   "description": "vue-music-play",
   "author": "waiter-yu",
   "private": false,
@@ -11,6 +11,10 @@
     "build": "cross-env NODE_ENV=production webpack --config build/webpack.prod.conf.js --progress"
   },
   "types": "dist/vue-music-play.js",
+  "repository": {
+    "type": "git",
+    "url": "https://https://github.com/waiter-yu/vue-music-play"
+  },
   "dependencies": {
     "vue-simple-verify": "^1.0.5",
     "core-js": "^3.5.0",
